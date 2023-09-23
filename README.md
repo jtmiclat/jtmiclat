@@ -10,4 +10,4 @@
                 ||     ||
 ```
 
-Currently working as a data/geospatial engineer at [Thinking Machines](https://thinkingmachin.es).
+Previously worked as a data/geospatial engineer at [Thinking Machines](https://thinkingmachin.es).
