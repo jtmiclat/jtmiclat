@@ -12,4 +12,4 @@
 
 Previously worked as a data/geospatial engineer at [Thinking Machines](https://thinkingmachin.es) 🤖
 
-Currenyly working as a full stack engineer at [Ororatech](https://ororatech.com/) 🔥
+Currently working as a full stack engineer at [Ororatech](https://ororatech.com/) 🔥
