@@ -10,6 +10,7 @@
                 ||     ||
 ```
 
-Previously worked as a data/geospatial engineer at [Thinking Machines](https://thinkingmachin.es) 🤖
 
-Currently working as a full stack engineer at [Ororatech](https://ororatech.com/) 🔥
+🔥 Currently, I am working as a Full Stack Engineeer as [Ororatech](https://ororatech.com) helping detect and monitor wildfires.
+
+🤖 Previously, a Data, Geospatial, and Sustainability Engineer at [Thinking Machines](https://thinkingmachin.es/).
